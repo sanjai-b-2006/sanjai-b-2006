@@ -33,7 +33,7 @@ From training models to deploying full-stack, containerized AI applications in t
 - 🤝 I’m looking for help with **ML & Deep Learning projects**
 - 💬 Ask me about **ML, AI, Deep Learning**
 - 👨‍💻 All my projects: **[github.com/sanjai-b-2006](https://github.com/sanjai-b-2006?tab=repositories)**
-- 📄 My experiences / resume: **[View here](https://drive.google.com/file/d/1PtCcgdrqhmd7MOIyEAWJnY0kxFvM8zuP/view?usp=sharing)**
+- 📄 My experiences / resume: **[View here](https://github.com/sanjai-b-2006/resume/blob/7c5d85fe10054f89f52e5e6f6b06971ba5e96dac/resumeai.pdf)**
 - 📫 Reach me: **sanjai.balamoorthy@gmail.com**
 
 ---
@@ -80,15 +80,6 @@ From training models to deploying full-stack, containerized AI applications in t
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjai-b-2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjai-b-2006&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjai-b-2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjai-b-2006&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
-
 ---
 
 ### 🤝 Connect With Me
