@@ -1,73 +1,96 @@
-<h1 align="center">Hi, I'm Sanjai B. 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>AI/ML Developer · MLOps Learner · Builder of real-time intelligent systems</strong>
-</p>
+# Sanjai B.
 
-<p align="center">
-  I build practical AI applications—from data pipelines and model experiments to API-driven, containerized deployments.
-  My current interests are machine learning, deep learning, generative AI, IoT, and observability.
-</p>
+### I turn data, models, and real-time signals into useful AI products.
 
-<p align="center">
-  <a href="https://linkedin.com/in/sanjai-b-4a1385279"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/sanjai-b-2006?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://kaggle.com/sanjaib2006"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://leetcode.com/sanjaib-leetcode01"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-</p>
+<a href="https://linkedin.com/in/sanjai-b-4a1385279"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/sanjai-b-2006?tab=repositories"><img src="https://img.shields.io/badge/GitHub-See%20my%20work-181717?style=flat-square&logo=github&logoColor=white" alt="See GitHub projects" /></a>
+<a href="mailto:sanjai.balamoorthy@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Sanjai" /></a>
 
----
+</div>
 
-## What I work on
+```text
+AI/ML developer building the path from raw data → trained model → reliable product.
+```
 
-| Area | Focus |
-| --- | --- |
-| **Machine learning & deep learning** | Building, evaluating, and tuning models |
-| **Data & real-time systems** | Pipelines, streaming data, databases, and IoT signals |
-| **MLOps & deployment** | Dockerized services, cloud delivery, and CI/CD foundations |
-| **Generative AI** | LLM-powered applications and useful product workflows |
-| **AIOps & observability** | Monitoring and anomaly-detection systems |
-| **Full-stack AI** | FastAPI backends, React interfaces, REST APIs, and WebSockets |
+I enjoy the part of AI work that connects experimentation to reality: designing data flows, training and evaluating models, and shaping them into deployable applications. My interests sit at the intersection of machine learning, generative AI, IoT, and systems that can make decisions in real time.
 
----
+## Building toward
 
-## Toolkit
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Real-time intelligence</h3>
+      <p>Systems that ingest live signals, surface anomalies, and support faster decisions.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Applied machine learning</h3>
+      <p>Models that are measured carefully, improved deliberately, and built for a useful outcome.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚢 Production-minded AI</h3>
+      <p>Containerized services, practical APIs, and cloud-ready delivery—not notebooks left behind.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✨ LLM-powered experiences</h3>
+      <p>Useful interfaces and workflows that put generative AI to work for people.</p>
+    </td>
+  </tr>
+</table>
 
-**Languages**
+## My working stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<details open>
+<summary><b>Modeling & data</b></summary>
+<br />
 
-**AI & data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+</details>
 
-**Application & infrastructure**
+<details open>
+<summary><b>From API to deployment</b></summary>
+<br />
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+</details>
 
-## Let’s connect
+<details>
+<summary><b>Also comfortable with</b></summary>
+<br />
 
-I’m open to collaborating on thoughtful machine-learning, deep-learning, and full-stack AI projects.
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- Explore my work: [GitHub repositories](https://github.com/sanjai-b-2006?tab=repositories)
-- View my background: [resume](https://github.com/sanjai-b-2006/resume/blob/7c5d85fe10054f89f52e5e6f6b06971ba5e96dac/resumeai.pdf)
-- Email: [sanjai.balamoorthy@gmail.com](mailto:sanjai.balamoorthy@gmail.com)
+</details>
+
+## Beyond the code
+
+- Find experiments and projects on [GitHub](https://github.com/sanjai-b-2006?tab=repositories)
+- Explore my data-science work on [Kaggle](https://kaggle.com/sanjaib2006)
+- Follow my problem-solving practice on [LeetCode](https://leetcode.com/sanjaib-leetcode01)
+- Read my [resume](https://github.com/sanjai-b-2006/resume/blob/7c5d85fe10054f89f52e5e6f6b06971ba5e96dac/resumeai.pdf)
+
+<div align="center">
+  <sub>Interested in building something useful with AI? <a href="mailto:sanjai.balamoorthy@gmail.com">Let’s talk.</a></sub>
+</div>
